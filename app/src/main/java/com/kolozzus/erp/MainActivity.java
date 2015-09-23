@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         //HABILITAR ZOOM
         wv.getSettings().setBuiltInZoomControls(true);
         //wv.loadUrl("file:///android_asset/www/index.html");
-        wv.loadUrl("http://servicios.comisiontransito.gob.ec/koloxus");
+        wv.loadUrl("http://www.kolozzus.com/erp");
     }
 
     @Override
